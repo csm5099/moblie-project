@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">profile_management</string>
+    <string name="stat_name">Name</string>
+    <string name="stat_level">Lv.</string>
+    <string name="stat_gold">Gold</string>
+    <string name="stat_name_edit">변경할 이름을 입력해주세요</string>
+</resources>

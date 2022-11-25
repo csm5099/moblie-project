@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_shop"
+        android:title="@string/menu_shop"
+        android:icon="@drawable/shopicon"
+        />
+    <item android:id="@+id/action_todo"
+        android:title="@string/menu_todo"
+        android:icon="@drawable/todoicon"
+        />
+    <item android:id="@+id/action_stat"
+        android:title="@string/menu_stat"
+        android:icon="@drawable/staticon"
+        />
+
+</menu>

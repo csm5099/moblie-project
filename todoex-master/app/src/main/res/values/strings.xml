@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Do It Status</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_shop">shop</string>
+    <string name="menu_todo">todo</string>
+    <string name="menu_stat">stat</string>
+    <string name="stat_name">Name</string>
+    <string name="stat_level">Lv.</string>
+    <string name="stat_gold">Gold</string>
+</resources>
